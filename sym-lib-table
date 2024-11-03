@@ -2,4 +2,5 @@
   (version 7)
   (lib (name "random-keyboard-parts")(type "Legacy")(uri "${KIPRJMOD}/random-keyboard-parts.pretty/Schematic Library/random-keyboard-parts.lib")(options "")(descr ""))
   (lib (name "2024-11-01_20-44-23")(type "KiCad")(uri "${KIPRJMOD}/ul_FOXSDLF-080-20/KiCADv6/2024-11-01_20-44-23.kicad_sym")(options "")(descr ""))
+  (lib (name "USB4105-GF-A")(type "KiCad")(uri "${KIPRJMOD}/USBC PORT/USB4105-GF-A.kicad_sym")(options "")(descr ""))
 )
